@@ -1,4 +1,4 @@
-public class test01 {
+public class Collatz {
     public static void main(String[] args) {
         Solution sl = new Solution();
 
